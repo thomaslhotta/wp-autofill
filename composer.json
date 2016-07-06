@@ -1,0 +1,16 @@
+{
+    "name": "thomaslhotta/wp-gtm",
+    "description": "A simple plugin that inserts a Google Tag Manager Snippet into the WordPress theme",
+    "license": "GPL-2.0+",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Thomas Lhotta",
+            "email": "th.lhotta@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "fancyguy/webroot-installer": "1.1.0"
+    }
+}
